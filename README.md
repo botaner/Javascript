@@ -1,2 +1,4 @@
 # Javascript
-oğrendiklerim
+Ogrendiklerimi Burda Biriktiriyorum
+# HelloWorld :))
+
